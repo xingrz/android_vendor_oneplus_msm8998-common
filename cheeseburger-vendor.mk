@@ -321,6 +321,7 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/cheeseburger/proprietary/bin/imscmservice:system/bin/imscmservice \
     vendor/oneplus/cheeseburger/proprietary/bin/imsdatadaemon:system/bin/imsdatadaemon \
     vendor/oneplus/cheeseburger/proprietary/bin/imsqmidaemon:system/bin/imsqmidaemon \
+    vendor/oneplus/cheeseburger/proprietary/bin/init.qti.qseecomd.sh:system/bin/init.qti.qseecomd.sh \
     vendor/oneplus/cheeseburger/proprietary/bin/irsc_util:system/bin/irsc_util \
     vendor/oneplus/cheeseburger/proprietary/bin/loc_launcher:system/bin/loc_launcher \
     vendor/oneplus/cheeseburger/proprietary/bin/lowi-server:system/bin/lowi-server \
