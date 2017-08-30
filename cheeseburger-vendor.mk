@@ -28,14 +28,10 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/cheeseburger/proprietary/etc/acdbdata/MTP/MTP_Speaker_cal.acdb:system/etc/acdbdata/MTP/MTP_Speaker_cal.acdb \
     vendor/oneplus/cheeseburger/proprietary/etc/acdbdata/MTP/MTP_workspaceFile.qwsp:system/etc/acdbdata/MTP/MTP_workspaceFile.qwsp \
     vendor/oneplus/cheeseburger/proprietary/etc/acdbdata/adsp_avs_config.acdb:system/etc/acdbdata/adsp_avs_config.acdb \
-    vendor/oneplus/cheeseburger/proprietary/etc/camera/camera_config.xml:system/etc/camera/camera_config.xml \
     vendor/oneplus/cheeseburger/proprietary/etc/camera/cp/CPCalibrationData.bin:system/etc/camera/cp/CPCalibrationData.bin \
     vendor/oneplus/cheeseburger/proprietary/etc/camera/cp/FusionCalibrationParams.bin:system/etc/camera/cp/FusionCalibrationParams.bin \
     vendor/oneplus/cheeseburger/proprietary/etc/camera/cp/SystemParamsBokeh.bin:system/etc/camera/cp/SystemParamsBokeh.bin \
     vendor/oneplus/cheeseburger/proprietary/etc/camera/cp/SystemParamsFusion.bin:system/etc/camera/cp/SystemParamsFusion.bin \
-    vendor/oneplus/cheeseburger/proprietary/etc/camera/imx350_chromatix.xml:system/etc/camera/imx350_chromatix.xml \
-    vendor/oneplus/cheeseburger/proprietary/etc/camera/imx371_chromatix.xml:system/etc/camera/imx371_chromatix.xml \
-    vendor/oneplus/cheeseburger/proprietary/etc/camera/imx398_chromatix.xml:system/etc/camera/imx398_chromatix.xml \
     vendor/oneplus/cheeseburger/proprietary/etc/firmware/a530_pfp.fw:system/etc/firmware/a530_pfp.fw \
     vendor/oneplus/cheeseburger/proprietary/etc/firmware/a530_pm4.fw:system/etc/firmware/a530_pm4.fw \
     vendor/oneplus/cheeseburger/proprietary/etc/firmware/a540_gpmu.fw2:system/etc/firmware/a540_gpmu.fw2 \
