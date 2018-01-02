@@ -16,7 +16,7 @@
 
 LOCAL_PATH := $(call my-dir)
 
-ifneq ($(filter cheeseburger dumpling,$(TARGET_DEVICE)),)
+ifneq ($(filter dumpling,$(TARGET_DEVICE)),)
 
 include $(CLEAR_VARS)
 LOCAL_MODULE := IFAAService
